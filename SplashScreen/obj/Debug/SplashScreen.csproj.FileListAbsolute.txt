@@ -1,0 +1,8 @@
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+c:\users\caiof\documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.frmSplash.resources
